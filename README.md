@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Adam Sattout, an Artificial Intelligence Engineering student at Hacettepe University, and I am into AI, Software Development, and Game development!.
+<p align="left">I'm Adam Sattout, an Artificial Intelligence Engineering student at Hacettepe University, and I am into AI, Software Development, and Game development!
 
 <h3 align="left">🛠 Language and tools</h3>
 
