@@ -32,7 +32,7 @@
 <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></a>
 <a href="https://godotengine.org/"><img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" width="40"/></a>
 <a href="https://matplotlib.org/"><img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" width="40"/></a>
-<a href="https://matplotlib.org/"><img src="https://commons.wikimedia.org/wiki/File:Ros_logo.svg" width="40"/></a>
+<a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gnome-document-save.svg/20px-Gnome-document-save.svg.png" width="40"/></a>
 </div>
 
 ###
