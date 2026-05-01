@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Adam Sattout, 4th year Artificial Intelligence Engineering student @ Hacettepe University, and I am into AI, Software Development, and Game development!
+<p align="left">I'm Adam Sattout, 4th year Artificial Intelligence Engineering student @ Hacettepe University, and I am into AI, Robotics, Software Development, and Game development!
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -32,6 +32,7 @@
 <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></a>
 <a href="https://godotengine.org/"><img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" width="40"/></a>
 <a href="https://matplotlib.org/"><img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" width="40"/></a>
+<a href="https://matplotlib.org/"><img src="https://commons.wikimedia.org/wiki/File:Ros_logo.svg" width="40"/></a>
 </div>
 
 ###
